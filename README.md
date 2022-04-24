@@ -1,8 +1,8 @@
-# Playstore scraper! [![Version](https://img.shields.io/npm/v/@myno_21/time.svg)](https://www.npmjs.com/package/@myno_21/time)
+# Playstore scraper! [![Version](https://img.shields.io/npm/v/@myno_21/playstore-scraper.svg)](https://www.npmjs.com/package/@myno_21/playstore-scraper)
 
-[![@myno_21/time](https://nodei.co/npm/@myno_21/time.png?downloads=true&downloadRank=true)](http://npmjs.org/package/@myno_21/time)
+[![@myno_21/time](https://nodei.co/npm/@myno_21/playstore-scraper.png?downloads=true&downloadRank=true)](http://npmjs.org/package/@myno_21/playstore-scraper)
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](http://npmjs.org/package/@myno_21/time)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](http://npmjs.org/package/@myno_21/playstore-scraper)
 
 > 🎟️ Scrape information of a playstore app without having any sort of API key!
 
