@@ -1,0 +1,34 @@
+{
+  "name": "@myno_21/playstore-scraper",
+  "version": "1.0.0",
+  "description": "Fetch information about an app from the Play Store.",
+  "main": "lib/main.js",
+  "keywords": [
+    "playstore",
+    "app-info",
+    "scraper-playstore",
+    "scraper-playstore-info",
+    "scraper-playstore-info-cli",
+    "scraper-playstore-info-node",
+    "scraper-playstore-info-node-cli",
+    "scraper-playstore-info-node-lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "html-get": "^2.9.14",
+    "node-fetch": "^2.6.7",
+    "puppeteer": "^13.6.0"
+  }
+}
